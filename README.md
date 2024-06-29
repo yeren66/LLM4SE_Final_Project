@@ -6,4 +6,5 @@
 
 #### LangChain
 langchain官方文档 https://python.langchain.com/
+
 langchain官方课程 https://learn.deeplearning.ai/langchain
