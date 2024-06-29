@@ -1,0 +1,152 @@
+[
+    {
+        "question": "什么是大语言模型？",
+        "answer": "大语言模型（Large Language Model）通常是指一种基于深度学习的神经网络架构，特别是一种预训练模型，它具有大规模参数量和广泛的语言理解能力。这些模型通过大量的文本数据进行训练，能够理解和生成人类语言，完成各种自然语言处理任务，如文本生成、翻译、问答、文本摘要等。在给定的论文中，讨论的并不是大语言模型，而是数学领域的一个问题，即研究一个关于连续二次算子的方程，这与偏微分方程的解有关，与大语言模型的技术内容不直接相关。",
+        "abstract": "  We study an equation $Qu=g$, where $Q$ is a continuous quadratic operator\nacting from one normed space to another normed space. Obviously, if $u$ is a\nsolution of such equation then $-u$ is also a solution. We find conditions\nimplying that there are no other solutions and apply them to the study of the\nDirichlet boundary value problem for the partial differential equation $u\\Delta\nu =g$.\n",
+        "refer": {
+            "id": 442460620285220479,
+            "access_id": "1506.02474",
+            "authors": "Victor Alexandrov",
+            "title": "On the number of solutions of a quadratic equation in a normed space",
+            "comments": "6 pages",
+            "journal_ref": "Journal of Natural Science of Heilongjiang University, 33, no. 1\n  (2016), 1-5. [ISSN: 1001-7011]",
+            "doi": "10.13482/j.issn1001-7011.2015.12.299",
+            "categories": "math.FA math.AP"
+        }
+    },
+    {
+        "question": "形式化软件工程是什么？",
+        "answer": "形式化软件工程（Formal Software Engineering）并非直接在给出的论文摘要中提及的主题。但从上下文推测，它可能与教育和数学思维的培养有关。在论文的讨论中，作者关注的是如何通过数学教育，特别是理论构建（theory building），培养学生的逻辑思维和问题解决能力，这在软件工程中是一项关键技能。理论构建部分可能涉及形式化方法，即运用数学和逻辑工具来系统地描述、分析和验证软件系统的结构和行为。虽然论文聚焦于几何领域，但其目标是为跨学科的框架提供启示，这框架可能有助于培养对所有人（包括软件工程师）在个人、公共和职业生活中都重要的思考能力。因此，形式化软件工程可能是指在教学中运用形式化方法来提升软件开发过程的严谨性和效率。",
+        "abstract": "  If we want mathematics education to be valuable to everybody, including those\nwho do not pursue mathematics-related careers, we need to use mathematics as a\ntraining ground for certain ways of thinking. This dissertation focuses on one\naspect of mathematical thinking, namely theory building. It has three parts -\nunpacking what constitutes theory building, the development of a course aimed\nat theory building, and a qualitative description of an implementation of that\ncourse with 12 to 15-year-old students in two schools in Pune, India.\n  The description aims to understand some of how students engaged with the\ncourse and the role of the instructor in the implementation of the course. The\ndata used in this description includes video recordings of the sessions,\nteacher reflections at the end of each session, and student reflections and\nfeedback. The ultimate goal of the description is to suggest considerations we\nshould keep in mind when designing and implementing theory-building courses.\n  The focus of the dissertation is within mathematics, and more specifically,\nwithin geometry. However, this is hopefully just a first step towards a\ntransdisciplinary framework aimed at developing thinking abilities useful to\neverybody in their personal, public, and professional lives.\n",
+        "refer": {
+            "id": 442460620286192654,
+            "access_id": "2108.07393",
+            "authors": "Madhav Kaushish",
+            "title": "Theory Building in Geometry Education: Designing and implementing a\n  course for 12-15 year old students",
+            "comments": "325 pages, 58 figures, Ph.D. thesis",
+            "journal_ref": "",
+            "doi": "",
+            "categories": "math.HO"
+        }
+    },
+    {
+        "question": "大语言模型的缩放定理是什么？",
+        "answer": "抱歉，给出的论文摘要内容与“大语言模型的缩放定理”没有直接关联。论文讨论的是企业应对COVID-19危机期间员工合作、支持度、社会资本、韧性以及焦虑和疲劳对离职意向的影响。大语言模型（Large Language Models）通常指的是深度学习中的模型，特别是与自然语言处理相关的模型，如Transformer架构，它们的性能随着模型规模（参数量）的增加而增长的理论被称为“规模缩放定律”（Scale-Invariance）。然而，这与你提供的论文内容无关。如果你的问题是关于深度学习模型的缩放定理，那么它可能涉及模型复杂度与性能提升之间的关系，但具体细节超出论文摘要的范围。",
+        "abstract": "  An important theme is how to maximize the cooperation of employees when\ndealing with crisis measures taken by the company. Therefore, to find out what\nkind of employees have cooperated with the company's measures in the current\ncorona (COVID-19) crisis, and what effect the cooperation has had to these\nemployees/companies to get hints for preparing for the next crisis, the pass\nanalysis was carried out using awareness data obtained from a questionnaire\nsurvey conducted on 2,973 employees of Japanese companies in China. The results\nshowed that employees with higher social capital and resilience were more\nsupportive of the company's measures against corona and that employees who were\nmore supportive of corona measures were less likely to leave their jobs.\nHowever, regarding fatigue and anxiety about the corona felt by employees, it\nwas shown that it not only works to support cooperation in corona\ncountermeasures but also enhances the turnover intention. This means that just\nby raising the anxiety of employees, even if a company achieves the short-term\ngoal of having them cooperate with the company's countermeasures against\ncorona, it may not reach the longer-term goal by making them increase their\nintention to leave. It is important for employees to be aware of the crisis and\nto fear it properly. But more than that, it should be possible for the company\nto help employees stay resilient, build good relationships with them, and\nincrease their social capital to make them support crisis measurement of the\ncompany most effectively while keeping their turnover intention low.\n",
+        "refer": {
+            "id": 442460620285974325,
+            "access_id": "2007.07963",
+            "authors": "Keisuke Kokubun, Yoshiaki Ino, Kazuyoshi Ishimura",
+            "title": "Social capital and resilience make an employee cooperate for coronavirus\n  measures and lower his/her turnover intention",
+            "comments": "amendment in Table 1",
+            "journal_ref": "International Journal of Workplace Health Management, (2022)",
+            "doi": "10.1108/IJWHM-07-2021-0142",
+            "categories": "econ.GN q-fin.EC"
+        }
+    },
+    {
+        "question": "代码评审的目标是什么？",
+        "answer": "代码评审（Code Review）在上述论文的上下文中并未直接提及。然而，根据一般的软件开发和团队协作经验，代码评审的目标通常是在项目开发过程中提高软件质量、效率和团队协作。以下是代码评审可能的一些目标：\n\n1. **提高代码质量**：通过检查他人的代码，可以发现潜在的错误、冗余、不一致性和不规范性，从而确保代码的正确性和可维护性。\n\n2. **促进学习与知识共享**：代码评审可以作为团队成员之间知识传授和学习的平台，帮助提高团队的整体技能水平。\n\n3. **增强代码可读性**：评审过程可以促使开发者编写更清晰、更具文档化的代码，使得其他团队成员更容易理解和维护。\n\n4. **预防维护困难**：早期发现并解决潜在问题，可以降低未来修复错误的复杂性和成本。\n\n5. **建立团队文化**：代码评审强调团队合作和反馈，有助于形成积极的工作氛围。\n\n6. **确保最佳实践**：通过评审，可以确保开发团队遵循统一的编码标准和最佳实践，提高项目的一致性和可扩展性。\n\n在论文中讨论的危机管理背景下，如果将代码评审与员工合作关联起来，可能意味着确保员工在执行公司措施时能够高效地审查和理解相关的技术要求，从而支持公司应对危机。但这并不是代码评审的直接定义，而是可能的应用场景。",
+        "abstract": "  An important theme is how to maximize the cooperation of employees when\ndealing with crisis measures taken by the company. Therefore, to find out what\nkind of employees have cooperated with the company's measures in the current\ncorona (COVID-19) crisis, and what effect the cooperation has had to these\nemployees/companies to get hints for preparing for the next crisis, the pass\nanalysis was carried out using awareness data obtained from a questionnaire\nsurvey conducted on 2,973 employees of Japanese companies in China. The results\nshowed that employees with higher social capital and resilience were more\nsupportive of the company's measures against corona and that employees who were\nmore supportive of corona measures were less likely to leave their jobs.\nHowever, regarding fatigue and anxiety about the corona felt by employees, it\nwas shown that it not only works to support cooperation in corona\ncountermeasures but also enhances the turnover intention. This means that just\nby raising the anxiety of employees, even if a company achieves the short-term\ngoal of having them cooperate with the company's countermeasures against\ncorona, it may not reach the longer-term goal by making them increase their\nintention to leave. It is important for employees to be aware of the crisis and\nto fear it properly. But more than that, it should be possible for the company\nto help employees stay resilient, build good relationships with them, and\nincrease their social capital to make them support crisis measurement of the\ncompany most effectively while keeping their turnover intention low.\n",
+        "refer": {
+            "id": 442460620285974325,
+            "access_id": "2007.07963",
+            "authors": "Keisuke Kokubun, Yoshiaki Ino, Kazuyoshi Ishimura",
+            "title": "Social capital and resilience make an employee cooperate for coronavirus\n  measures and lower his/her turnover intention",
+            "comments": "amendment in Table 1",
+            "journal_ref": "International Journal of Workplace Health Management, (2022)",
+            "doi": "10.1108/IJWHM-07-2021-0142",
+            "categories": "econ.GN q-fin.EC"
+        }
+    },
+    {
+        "question": "重复的数据会对In-content Learning产生什么影响？",
+        "answer": "重复的数据（Duplicate Data）对In-content Learning，即在学习内容中发现和学习新知识的过程，可能产生的影响并未在给出的论文摘要中直接提及。然而，从一般的数据分析和教育技术的角度来看，重复数据可能会影响In-content Learning的几个方面：\n\n1. **数据质量降低**：过多的重复数据可能会降低数据的可信度和有效性，因为重复记录可能包含错误或不一致的信息，这可能误导学习者对内容的理解。\n\n2. **资源浪费**：重复的数据会占用存储空间，增加计算资源的消耗，如果学习系统没有有效管理重复数据，这可能影响系统的效率和性能。\n\n3. **分析准确性**：在数据分析和挖掘中，重复数据可能导致统计分析结果偏差，影响学习算法的准确性和有效性。\n\n4. **学习体验**：对于基于数据驱动的个性化学习，重复数据可能会导致个性化推荐不准确，影响学习者的学习路径和兴趣点。\n\n5. **误导学习**：如果学习内容中包含大量重复或错误的数据，可能会误导学习者对主题的理解，阻碍新知识的有效吸收。\n\n6. **数据清洗和管理**：管理重复数据需要额外的处理步骤，可能增加教师或系统管理员的工作负担。\n\n因此，为了确保In-content Learning的有效性和质量，处理和管理重复数据是至关重要的，特别是在资源有限的开发中国家的教育环境中。论文提出了两种教育技术框架来应对这些挑战，但具体到重复数据的影响，需要结合更深入的讨论或研究来确定。",
+        "abstract": "  This paper presents a critical review of the challenges to the implementation\nof learning technologies with particular focus on developing countries. A\ncomprehensive literature review on learning technologies was undertaken for the\npurpose of understanding the challenges in developing countries. The research\nquestion is: what extent does education empower learners to be full\nparticipants in a socially democratic society? The literature review identified\n25 papers relevant to this topic. Challenges are interrelated and to bring\nabout changes in developing countries, this paper proposes two educational\ntechnology frameworks based on: 1. cultural conceptual framework, and 2.\nproblem-based constructivist psychology simulation model. The framework and\nsimulation model are both useful to guide practice and research.\n",
+        "refer": {
+            "id": 442460620285949207,
+            "access_id": "2006.00245",
+            "authors": "Parvathy Panicker",
+            "title": "Critical pedagogy in the implementation of educational technologies",
+            "comments": "6 pages, 1 table",
+            "journal_ref": "",
+            "doi": "",
+            "categories": "cs.CY"
+        }
+    },
+    {
+        "question": "软件工程领域如何适应不同领域？",
+        "answer": "在软件工程领域适应不同领域，特别是针对像印度洋-太平洋地区（Indo-Pacific Region, IPR）这样的国防和安全合作环境，通常需要以下几个方面的适应策略：\n\n1. **跨领域知识集成**：软件工程师需要对军事、外交政策和国际关系有基本理解，以便开发符合特定环境需求的系统。这可能包括开发支持信息共享、指挥与控制、以及战略规划的软件平台。\n\n2. **定制化解决方案**：针对IPR的特定安全挑战，如网络安全、数据隐私和通信安全，软件工程需要提供定制化的解决方案，确保系统的安全性和鲁棒性。\n\n3. **合作与集成**：考虑到QUAD（Quadrilateral Security Dialogue）等多边合作框架，软件系统需要能够支持跨组织、跨机构的协作，整合不同系统和协议。\n\n4. **安全性与合规性**：在复杂的国际环境中，软件工程必须遵循严格的法规和标准，例如国际数据传输安全规范和反间谍软件措施。\n\n5. **灵活性和适应性**：由于安全威胁和需求可能不断变化，软件系统需要有高度的可扩展性和适应性，能够迅速应对新的挑战。\n\n6. **创新与研发**：投资于研究和开发新的技术，如人工智能、机器学习和云计算，来增强安全分析、预警和响应能力。\n\n7. **合作与培训**：与政府部门或其他国家安全机构合作，提供针对性的培训，确保员工了解新环境下的软件工程需求和最佳实践。\n\n因此，软件工程领域在适应不同领域时，需要不断调整其方法论和技术，以满足国防和国际合作中的独特需求。",
+        "abstract": "  In the backdrop of growing power transitions and rise of strategic high tide\nin the world, the Indo Pacific Region (IPR) has emanated as an area which is\nlikely to witness increased development & enhanced security cooperation through\nmilitarization. With China trying to be at the seat of the Global leadership,\nUS & its allies in the Indo pacific are aiming at working together, finding\nmutually beneficial areas of functional cooperation and redefining the canvas\nof security. This purpose of this paper is to analyze an informal alliance,\nQuadrilateral Security dialogue (QUAD) in its present form with the\ngeostrategic landscape in Indo pacific and present recommendations to\nstrengthen collaboration & response capability.\n",
+        "refer": {
+            "id": 442460620286409088,
+            "access_id": "2209.04609",
+            "authors": "Mandeep Singh Rai",
+            "title": "Revisiting QUAD ambition in the Indo Pacific leveraging Space and Cyber\n  Domain",
+            "comments": "",
+            "journal_ref": "",
+            "doi": "",
+            "categories": "econ.GN q-fin.EC"
+        }
+    },
+    {
+        "question": "区块链如何保证安全？",
+        "answer": "区块链（Blockchain）通过其独特的技术机制来保证安全，主要体现在以下几个方面：\n\n1. **去中心化**：区块链是一个分布式数据库，没有中心化的控制机构，数据存储在网络的每个节点上，降低了单点故障风险，增加了安全性。\n\n2. **加密技术**：区块链使用复杂的加密算法（如哈希函数和公私钥加密）保护交易数据，确保只有授权的参与者可以访问和修改信息，防止数据篡改。\n\n3. **不可篡改性**：每笔交易都被打包成一个区块，并通过时间戳和前一个区块的哈希链接，一旦数据写入，就难以被修改，保证了数据的完整性和历史记录的可靠性。\n\n4. **共识机制**：在比特币和以太坊等公有链上，需要网络中的节点达成共识才能添加新的区块，这进一步保证了数据的准确性，防止恶意攻击。\n\n5. **透明性**：虽然交易是匿名的，但交易记录是公开的，这在一定程度上增加了系统的审计性和可追踪性，有助于防止欺诈行为。\n\n6. **智能合约**：区块链上的智能合约，是自动执行的程序，它们确保执行条件满足时，合约内的操作自动执行，减少了人为干预，提高了交易的公正性和效率。\n\n在智能城市应用中，尤其是在云物联网（CoT）环境下，区块链可以增强数据的安全性和隐私保护，确保基础设施和公共服务的安全运行。通过应用区块链技术，可以有效防止数据泄露、恶意攻击和其他潜在的安全威胁，从而支持智能城市的稳定运营。",
+        "abstract": "  The recent demographic trends indicate towards a rapidly increasing\npopulation growth and a significant portion of this increased population now\nprefer to live mostly in cities. In connection with this, it has become the\nresponsibility of the government to ensure a quality standard of living in the\ncities and also make sure that these facilities trickle down to the next\ngeneration. A program named Smart City Mission has been started for this\npurpose. With an extremely diverse population, that is only second to China in\nthe world in terms of size, the Indian government has engaged in serious\nthinking for a better city planning and providing numerous opportunities for\nthe citizenry. It was, therefore, planned that the Smart City Mission program\nwill be able to provide a highly responsive infrastructure, network security, a\ngood living environment and the like. Internet of things (IoT) application in\nsmart cities turns out to be the most challenging in this phase. The\ninformation available in the internet has made accessible to many devices\nthrough IoT and it also aware the citizen in many aspects. But with the\nincreasing number of devices and information, it is now becoming increasingly\ndifficult to depend on IoT to manage things in the internet space with a\nsimilar degree of ease. As a result, cloud-based technologies have given\npreferences over the existing one and IoT has been replaced by the newly\nintroduced Cloud of Things (CoT) paradigm. This paper intends to connect\ndifferent smart city applications for the betterment of city life with the\nCloud of Things (CoT). Our proposed smart city architecture is based on Cloud\nof Things, and the focus is also given to identify the existing as well as the\nforthcoming challenges for the concerned program of the government. By\nidentifying the difficulties it is expected that the project will be\nmaterialized with a great success.\n",
+        "refer": {
+            "id": 442460620285453626,
+            "access_id": "1704.07905",
+            "authors": "Sandip Roy, Debabrata Sarddar",
+            "title": "The Role of Cloud of Things in Smart Cities",
+            "comments": "16 pages, 14 figures",
+            "journal_ref": "International Journal of Computer Science and Information Security\n  (IJCSIS), Vol. 14, No. 11, November 2016",
+            "doi": "",
+            "categories": "cs.CY cs.NI"
+        }
+    },
+    {
+        "question": "指令微调的目标是什么？",
+        "answer": "指令微调（Instruction Tuning）通常是指在预训练的自然语言处理模型（如大语言模型）上进行特定任务的训练，以优化模型以执行特定的指令或任务要求。在你的问题背景中，它可能并不直接相关，但我们可以推测如果将其应用到这个上下文中，目标可能是：\n\n1. **适应性别议题讨论**：如果指令微调在这里指的是针对性别议题讨论的模型调整，目标可能是使模型更好地理解和生成关于女性面对的性别问题，如职场骚扰和家庭暴力的文本内容，从而提供更准确的响应和建议。\n\n2. **生成相关政策建议**：通过对女性匿名讨论内容的理解，指令微调的模型可能被训练去生成与性别平等、反性骚扰和家庭暴力防治相关的政策建议，以促进社会变革。\n\n3. **改进平台设计**：目标可能是利用这些分析结果，指导社交媒体平台设计，以更好地支持匿名用户的安全和隐私，鼓励她们公开讨论并寻求帮助。\n\n4. **提高社会支持**：通过对匿名讨论的分析，指令微调的模型可以帮助识别社会普遍存在的问题，从而激发更多的社会支持和资源分配，以应对女性面临的问题。\n\n因此，指令微调在这个上下文中的目标可能是通过个性化模型来理解和响应女性在性别议题上面临的挑战，以推动更有效的社会干预和资源分配。",
+        "abstract": "  Gender issues faced by women can range from workplace harassment to domestic\nviolence. While publicly disclosing these issues on social media can be hard,\nsome may incline to express themselves anonymously. We approached such an\nanonymous female community on Chinese social media where discussion on gender\nissues takes place with a qualitative content analysis. By observing anonymous\nexperiences contributed by female users and made publicly available by an\ninfluencer, we identified 20 issues commonly discussed, with cheating-partner,\ncontrolling parents and age anxiety taking the lead. The results are placed\ninto context with Chinese culture and expectations about gender. By describing\nthe results in context with the social challenges faced by women in China, and\nunderstanding how these issues are anonymously and openly discussed by them, we\naim to motivate more policies and platform designs to accommodate the needs of\nthe affected population.\n",
+        "refer": {
+            "id": 442460620286366435,
+            "access_id": "2206.07923",
+            "authors": "Zhixuan Zhou, Zixin Wang, Franziska Zimmer",
+            "title": "Anonymous Expression in an Online Community for Women in China",
+            "comments": "56th Hawaii International Conference on System Sciences (HICSS)",
+            "journal_ref": "",
+            "doi": "",
+            "categories": "cs.SI cs.CY cs.HC"
+        }
+    },
+    {
+        "question": "离子阱计算机的原理是什么？",
+        "answer": "离子阱计算机（Ion Trap Computer）与你提供的论文摘要中的教学问题无关，它是一种基于离子物理学原理的量子计算平台。离子阱计算机的工作原理主要基于量子力学中的离子阱技术。简单来说，它通过电磁场来捕获、操控和存储单个或多个带电离子，这些离子在阱中形成量子比特（qubits），也就是量子信息的基本单位。\n\n在离子阱中，量子信息的处理基于离子的量子态，包括它们的能量级别和自旋状态。通过施加电磁场，研究者可以精准地控制离子的能级跃迁，从而实现量子门操作，这是量子计算中的基本单元。此外，离子间的相互作用可以通过调整电场来控制，从而实现量子纠缠等量子现象。\n\n与论文中的问题不同，离子阱计算机的原理并不涉及声音频率或物理教学中的实验设计，而是聚焦于量子物理学和量子计算技术。如果你对量子计算，特别是离子阱计算机的原理感兴趣，建议查阅相关的量子信息科学文献或研究论文。",
+        "abstract": "  \"Q Zhang's Problem\" is a teaching problem proposed by Qian Zhang, a science\nteacher at Dongjiao Minxiang Primary School in Dongcheng District, Beijing. In\n2022, she proposed that: (1) when explaining the knowledge points of frequency\nin the \"Sound\" unit, experiments on the vibration of objects such as rubber\nbands and steel rulers were used to assist students in learning, but the effect\nwas not obvious, because it was difficult for the naked eye to distinguish the\nspeed of vibration of objects such as rubber bands, and it was difficult to\ncorrespond to the high and low frequencies; (2) Students seem to be confused\nabout the difference between frequency and amplitude. When guiding them to make\nthe rubber band vibrate faster, they tend to tug harder at the rubber band, but\nthis actually changes the amplitude rather than the frequency (changing the\nfrequency should be to control its vibrating chord length, similar to the\ntuning method of a stringed instrument). Therefore, demonstration experiments\nusing objects such as rubber bands as frequencies do not seem suitable and\ncannot effectively assist students in establishing the concept of frequency. We\nhope to solicit opinions and solutions (research ideas) on this problem, with a\nfocus on two points: (1) the mathematical/physical explanation of the problem.\nThat is, does simply changing the amplitude really not affect the original\nvibration frequency of the object (except when the amplitude is 0) (2)\nexplanation from a cognitive perspective: Why do people confuse the two\nconcepts? What is the cognitive mechanism behind it.\n",
+        "refer": {
+            "id": 442460620286531869,
+            "access_id": "2303.13907",
+            "authors": "Zhong Wang",
+            "title": "Soliciting opinions and solutions on the \"Q Zhang's Problem\"",
+            "comments": "",
+            "journal_ref": "",
+            "doi": "",
+            "categories": "physics.ed-ph q-bio.NC"
+        }
+    },
+    {
+        "question": "人造原子是什么？",
+        "answer": "人造原子（Artificial Atoms）在给出的论文摘要中并未直接提及。人造原子通常是指在量子信息科学和量子计算领域中，研究人员通过量子物理学原理创建的离散量子系统，用于模拟和控制自然界中的原子行为。这些系统通常包括量子比特、量子点、超导电路、离子阱等，它们是量子计算机的基本构建块。\n\n在历史和谱系数据库中，\"人造原子\"的概念可能不适用，因为它们讨论的是历史人物的联系，如亲属关系、社会关系和任职地，而不是量子物理层面的原子模拟。然而，如果你的问题是关于历史数据中的\"原子\"或\"最小单元\"，那么在古代文献和数据库中，\"原子\"可能指的是个体、职位或组织的最小单位，比如文中提到的官员、候选人或地方人物。\n\n综上所述，人造原子在给出的上下文中不属于历史数据库研究的范畴，而是在量子信息科学中一个完全不同的概念。如果你的问题涉及量子计算，人造原子的定义将更为准确。",
+        "abstract": "  We present results of expanding the contents of the China Biographical\nDatabase by text mining historical local gazetteers, difangzhi. The goal of the\ndatabase is to see how people are connected together, through kinship, social\nconnections, and the places and offices in which they served. The gazetteers\nare the single most important collection of names and offices covering the Song\nthrough Qing periods. Although we begin with local officials we shall\neventually include lists of local examination candidates, people from the\nlocality who served in government, and notable local figures with biographies.\nThe more data we collect the more connections emerge. The value of doing\nsystematic text mining work is that we can identify relevant connections that\nare either directly informative or can become useful without deep historical\nresearch. Academia Sinica is developing a name database for officials in the\ncentral governments of the Ming and Qing dynasties.\n",
+        "refer": {
+            "id": 442460620285203358,
+            "access_id": "1504.02148",
+            "authors": "Peter K. Bol and Chao-Lin Liu and Hongsu Wang",
+            "title": "Mining and discovering biographical information in Difangzhi with a\n  language-model-based approach",
+            "comments": "6 pages, 4 figures, 1 table, 2015 International Conference on Digital\n  Humanities. in Proceedings of the 2015 International Conference on Digital\n  Humanities (DH 2015). July 2015",
+            "journal_ref": "",
+            "doi": "",
+            "categories": "cs.CL cs.CY cs.DL"
+        }
+    }
+]
