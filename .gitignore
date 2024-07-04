@@ -1,1 +1,6 @@
 RAG_experiment/all-MiniLM-L12-v2/pytorch_model.bin
+LSTM/data/*.csv
+LSTM/data/IMDB.jsonl
+LSTM/data/nohup.out
+LSTM/output/*
+LSTM/bert
