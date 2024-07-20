@@ -48,21 +48,21 @@
 -------------- start training --------------- 
 
 ========= Epoch: 0 ==============                                          
-Average Loss: 49.289 %                                                     Accuracy: 0.925600 -- Precision: 0.927802 -- Recall: 0.924116 -- F1: 0.925955 -- AUC: 0.978435
+Average Loss: 49.289                                                     Accuracy: 0.925600 -- Precision: 0.927802 -- Recall: 0.924116 -- F1: 0.925955 -- AUC: 0.978435
 保存模型参数
-New max accuracy: 0.926                                                                                                   
+New max accuracy: 0.926 %                                                                                                   
 
 ========= Epoch: 1 ==============                                                                                         
-Average Loss: 46.858 %                                                     Accuracy: 0.932400 -- Precision: 0.948169 -- Recall: 0.915773 -- F1: 0.931690 -- AUC: 0.981764
+Average Loss: 46.858                                                     Accuracy: 0.932400 -- Precision: 0.948169 -- Recall: 0.915773 -- F1: 0.931690 -- AUC: 0.981764
 保存模型参数
-New max accuracy: 0.932                                                                                                   
+New max accuracy: 0.932 %                                                                                                   
 
 ========= Epoch: 2 ==============                                                                                         
 Average Loss: 46.075 %                                                     Accuracy: 0.924600 -- Precision: 0.952240 -- Recall: 0.895113 -- F1: 0.922793 -- AUC: 0.980246
 No improvement: 1 epochs                                                                                                  
 
 ========= Epoch: 3 ==============                                                                                         
-Average Loss: 45.709 %                                                                                             
+Average Loss: 45.709                                                                                             
 Accuracy: 0.929200 -- Precision: 0.908885 -- Recall: 0.955105 -- F1: 0.931422 -- AUC: 0.980572
 No improvement: 2 epochs                                                                                                  
 Stopping early due to no improvement                                                                                      
